@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Teather.cs">
+    <Files>
+      <File FileName="Assets/Kite.cs" Line="29" Column="42" />
+      <File FileName="Assets/Atmosphere.cs" Line="28" Column="80" />
+      <File FileName="Assets/Teather.cs" Line="20" Column="2" />
+      <File FileName="Assets/Generator.cs" Line="8" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
